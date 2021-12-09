@@ -3,7 +3,7 @@
 1. [Descripcion General]
 2. [Estado Del Proyecto]
 3. [Los requisitos del entorno de desarrollo para la integración]
-4.[Link del video explicando funcionamiento]
+4. [Link del video explicando funcionamiento]
 
 ## Descripcion General:
 
