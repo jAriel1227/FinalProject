@@ -36,5 +36,3 @@ conocimientos, lo cual sera evaluado por el.
             -Windows, MacOs, Linux, Etc.
             -Espacio disponible almenos 1GB.
 
-## Link del video explicando funcionamiento: 
-https://drive.google.com/file/d/1ZLiHp1gVShs-gxsgl4cnPfqVO5IKvHA9/view?usp=sharing
